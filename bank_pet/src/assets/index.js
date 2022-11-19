@@ -17,7 +17,7 @@ import apple from "./apple.svg";
 import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
-import instagram from "./instagram.svg";
+import git from "./git.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import people01 from "./people01.png";
@@ -44,7 +44,7 @@ export {
   arrowUp,
   discount,
   facebook,
-  instagram,
+  git,
   linkedin,
   twitter,
   people01,

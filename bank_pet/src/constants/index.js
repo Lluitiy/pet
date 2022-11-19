@@ -3,7 +3,7 @@ import {
 	people02,
 	people03,
 	facebook,
-	instagram,
+	git,
 	linkedin,
 	twitter,
 	airbnb,
@@ -172,7 +172,7 @@ export const footerLinks = [
 export const socialMedia = [
 	{
 		id: 'social-media-1',
-		icon: instagram,
+		icon: git,
 		link: 'https://github.com/Lluitiy',
 	},
 	{
